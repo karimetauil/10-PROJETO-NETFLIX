@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Netflix</h1>
+<h1 align="center"> Projeto Netflix </h1>
 
 <p align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack Dev Club.</p>
 
