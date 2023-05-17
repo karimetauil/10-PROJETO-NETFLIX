@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Netflix consiste no desenvolvimento da Home Page da Netlix, tendo como base o projeto original. O Projeto simula os conteúdos da página, há a possibilidade de adicionar seu e-mail e também fazer a pesquisa sobre o significado da palavra Netflix.
+O Projeto Netflix consiste no desenvolvimento da Home Page da Netflix, tendo como base o projeto original. Ocorre a simulação de conteúdos da página, com a possibilidade de adicionar seu próprio e-mail e também fazer a pesquisa sobre o significado da palavra Netflix.
 O objetivo deste projeto foi aplicar na prática conhecimentos adquiridos em Html5, Css3 e JavaScript.
 
 ## 🔖 Layout
