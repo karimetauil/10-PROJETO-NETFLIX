@@ -13,7 +13,7 @@
     
 <br>
 
-  <img src=">
+  <img src="https://github.com/karimetauil/10-PROJETO-NETFLIX/blob/main/capturas%20de%20tela/Projeto%20Netflix.gif?raw=true" width="500px" align="center">
 
 <br>
 
