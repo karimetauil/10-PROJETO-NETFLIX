@@ -47,7 +47,7 @@ O Projeto Netflix consiste no desenvolvimento da Home Page da Netflix, tendo com
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/iy6s4aZebD1RwoyiOQdYAo/Netflix-DIG-(Community)?type=design&node-id=0-1&t=uiylD7RyKtWwInl3-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 <br>
 
