@@ -27,8 +27,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Netflix consiste no desenvolvimento da Home Page da Netflix, tendo como base o projeto original. Ocorre a simulação de conteúdos da página, com a possibilidade de adicionar seu próprio e-mail e também fazer a pesquisa sobre o significado da palavra Netflix.
-O objetivo deste projeto foi aplicar na prática conhecimentos adquiridos em Html5, Css3 e JavaScript.
+O Projeto Netflix consiste no desenvolvimento da Home Page da Netflix, tendo como base o projeto original. 
+
+## 🚩Funcionalidades
+
+- Há simulação de acesso aos conteúdos da página;
+- Ao passar o mouse sobre os botões 'Entrar', 'Português' e 'Vamos lá', o cursor transforma-se em uma mãozinha e também ocorre uma mudança de cor;
+- Através do input há possibilidade de introdução de e-mail;
+- No menu 'Perguntas Frequentes', ao clicar é possivel abrir e fechar a aba, ocorrendo o efeito de rotação da imagem (+), e deste modo constando o significado da palavra Netflix; 
+- Ao clicar nos links do Rodapé, há um direcionamento para uma nova página.
 
 ## 🔖 Layout
 
