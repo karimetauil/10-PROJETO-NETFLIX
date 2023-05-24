@@ -1,20 +1,22 @@
- <h1 align="center"> Projeto Netflix </h1>
+<h1 align="center"> Projeto Netflix </h1>
 
- <p align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack Dev Club.</p>
+<h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack 
+ <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
 
-<br>
+ <br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+ <br>
 
   <div align="center">
-    <img src="https://github.com/karimetauil/10-PROJETO-NETFLIX/blob/main/capturas%20de%20tela/Projeto%20Netflix.gif?raw=true" width="500px">
+    <img src="https://github.com/karimetauil/10-PROJETO-NETFLIX/blob/main/captura%20de%20tela/Projeto%20Netflix.gif?raw=true" 
+         width="600px">
   </div>
 
 <br>
@@ -33,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Netflix consiste no desenvolvimento da Home Page da Netflix, tendo como base o projeto original. 
 
-<br>
+ <br>
  
 ## 🚩Funcionalidades
 
@@ -49,11 +51,13 @@ O Projeto Netflix consiste no desenvolvimento da Home Page da Netflix, tendo com
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/iy6s4aZebD1RwoyiOQdYAo/Netflix-DIG-(Community)?type=design&node-id=0-1&t=uiylD7RyKtWwInl3-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-<br>
+ <br>
 
 ## :memo: Licença
 
 Esse projeto está sob a licença KTDA.
+
+ <br>
 
 ---
 
